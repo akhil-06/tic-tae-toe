@@ -1,6 +1,5 @@
 # React.js Tic Tac Toe Game in 30 Minutes
-## Watch Video
-[https://youtu.be/it54tShOsuI](https://youtu.be/it54tShOsuI)
+
 
  00:00:04 Introduction
 
@@ -23,9 +22,5 @@
  00:33:01 Conclusion
 
 
-## Learn React by Building a fun game in 30 minutes,
-* Live Demo: https://basir.github.io/tic-tac-toe/
-* Source Code: https://github.com/basir/tic-tac-toe
-* Website: https://codingwithbasir.com
 
 #reactjs #react #tutorial #tictactoe #videotutorial #javascript #junior #stepbystep #howtocode #reacttutorial #game #fun #learn #coding #programming
